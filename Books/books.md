@@ -10,3 +10,8 @@
 * [High dynamic range imaging: acquisition, display, and image-based lighting](http://webstaff.itn.liu.se/~jonun/web/teaching/2009-TNCG13/Siggraph08/class/HDRI_and_IBL/HDRIcourse08.pdf) - Reinhard, E., Heidrich, W., Debevec, P., Pattanaik, S., Ward, G., Myszkowski, K 2010
 * [Numerical Algorithms: Methods for Computer Vision, Machine Learning, and Graphics](https://people.csail.mit.edu/jsolomon/share/book/numerical_book.pdf) - Justin Solomon 2015
 
+### Open-CV Programming
+
+* [Learning OpenCV: Computer Vision with the OpenCV Library](https://www.bogotobogo.com/cplusplus/files/OReilly%20Learning%20OpenCV.pdf) - Gary Bradski and Adrian Kaehler
+* [Practical Python and OpenCV](https://minhtn1.github.io/Practical%20Python%20and%20OpenCV,%203rd%20Edition.pdf) - Adrian Rosebrock
+* [Mastering OpenCV with Practical Computer Vision Projects](https://www.cs.ccu.edu.tw/~damon/photo/,OpenCV/,Mastering_OpenCV.pdf) - Daniel Lelis Baggio
